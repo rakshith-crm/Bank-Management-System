@@ -20,7 +20,7 @@ git clone https://github.com/rakshith-crm/Bank-Management-System
 # Usage
 
 - Setup Postgre Database
-  - Create Database 'EMPLOYEE'
+  - Create Database 'BANK'
   - Create Tables (refer schema.sql)
   - Create procedures (refer plsql.sql)
   - Start PostgreSQL server at port 5432
