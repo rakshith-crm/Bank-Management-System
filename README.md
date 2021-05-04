@@ -34,5 +34,4 @@ git clone https://github.com/rakshith-crm/Bank-Management-System
     - cd client
     - npm start
 - Navigate to http://<span></span>localhost:3000 to view application
-# ER Diagram
-![Alt text](ERDiagram.png?raw=true)
+
